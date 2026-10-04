@@ -1,7 +1,5 @@
-# llm-maths-eval
-Mathematics problems for evaluating reasoning in LLMs. Work in progress
 
-# Evaluating Mathematical Reasoning in LLLMs
+# Evaluating Mathematical Reasoning in LLMs
 
 A planned set of mathematics problems for testing how well language
 models reason: not just whether they reach the right answer, but
